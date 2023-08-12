@@ -1,0 +1,7 @@
+id=FluentEmojiMagisk
+name=Fluent Emoji (Microsoft)
+version=v2023.03.17
+versionCode=20230317
+author=k3rnelpanik
+description=Replaces system emojis with Fluent Emojis from Microsoft with the magic of Magisk.
+updateJson=https://raw.githubusercontent.com/k3rnelpanik/FluentEmojiMagisk/main/update.json
